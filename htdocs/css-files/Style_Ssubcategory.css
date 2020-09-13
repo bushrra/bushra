@@ -1,0 +1,65 @@
+img {
+    vertical-align: middle;
+}
+
+.BigContiner{
+	background: #f3f3f3;
+    width: 82%;
+    display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.product{
+    border: 1px solid #c4c0c0;
+    background-color: #f1f1f1;
+    box-shadow: 1px 3px #edebeb;
+    padding: 24px;
+    float: left;
+    margin-left: 5px;
+    margin-right: auto;
+    margin-top: 25px;
+}
+
+
+.Pform {
+    font-family: sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+
+.btnBuy {
+  background-color: black;
+  color: white;
+  padding: 8px 37px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border: none;
+  
+}
+
+.SearchForm button {
+    float: right;
+    padding: 0px 10px;
+	
+}
+
+h3 {
+display: block;
+    font-size: 26px;
+    margin-block-start: 1px;
+    padding-top: 72px;
+    padding-left: 10px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    font-family: none;
+    text-align: left;
+
+}
+
+

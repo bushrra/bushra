@@ -1,0 +1,9 @@
+.container {
+    background: #f3f3f3;
+    width: 82%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    display: flow-root;
+}
+

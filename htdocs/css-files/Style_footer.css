@@ -1,0 +1,23 @@
+/*rights*/
+.Footer {
+    width: 100%;
+    height: 94px;
+    background-color: #e1dee2;
+    float: left;
+    color: Black;
+    text-align: center;
+	font-family: Times New Roman;
+}
+.icon{
+	height: 5px;
+    width: 5px;
+	display: inline;
+}
+.Fimg{
+	height: 24px;
+    width: 24px;
+}
+ul{
+    margin: 0 auto;
+    padding-right: 27px;
+}

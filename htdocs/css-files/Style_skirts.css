@@ -1,0 +1,58 @@
+img {
+    vertical-align: middle;
+}
+
+.container{
+	background:#f3f3f3;
+	width:1222px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	height:100%;
+}
+img {
+    width: 250px;
+    height: 250px;
+}
+
+
+body {
+    font-family: sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+
+.btnBuy {
+  background-color: black;
+  color: white;
+  padding: 8px 37px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  
+}
+
+.SearchForm button {
+    float: right;
+    padding: 0px 10px;
+	
+}
+
+h3 {
+    display: block;
+    font-size: 3.17em;
+    margin-block-start: 1px;
+    padding-top: 52px;
+    padding-left: 10px;
+    margin-block-end: 14px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-align: left;
+}
+
+
